@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly seeking
 
 - 👨‍💻 **Name**: Kunal
 - 🎓 **Current Study**: Pursuing B.Tech
-- 🖥️ **Interests**: Coding, Blockchain Technology
+- 🖥️ **Interests**: Coding, Machine Learning , Blockchain Technology
 - 🌍 **Pronouns**: He/Him
-- ⚡ **Fun Fact**: I'm a student!
+- ⚡ **Education**: Undergraduate Student @VIT Pune 
 
 ---
 
