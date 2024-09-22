@@ -1,4 +1,4 @@
-# Welcome <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHk4cHdzazJ0dTVrOW1pc2tucWQ3ZG5jZHBqNWI5azJhdGJjZnF2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVEBWRInEvNOEVS18i/giphy.gif" width="30px">
+# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHk4cHdzazJ0dTVrOW1pc2tucWQ3ZG5jZHBqNWI5azJhdGJjZnF2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVEBWRInEvNOEVS18i/giphy.gif" width="90px">
 # 💫About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 - 👨‍💻 **Name**: Kunal
 - 🎓 **Current Study**: Pursuing B.Tech
