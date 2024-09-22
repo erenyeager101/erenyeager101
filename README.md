@@ -1,120 +1,25 @@
-# Hi there, I'm Kunal! 👋
-
-Welcome to my GitHub profile! I'm passionate about coding and constantly seeking to expand my knowledge and skills. Here's a bit about me:
-
-<div align="center">
-    <img src="https://media.giphy.com/media/l2Sq7zWlLznLi67sY/giphy.gif" width="200px" alt="Funny Hello GIF"/>
-</div>
-
----
-
-## 🌟 About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
+# 💫About Me :
 - 👨‍💻 **Name**: Kunal
 - 🎓 **Current Study**: Pursuing B.Tech
-- 🖥️ **Interests**: Coding, Machine Learning, Blockchain Technology
+- 🖥️ **Interests**: Coding, Machine Learning , Blockchain Technology
 - 🌍 **Pronouns**: He/Him
 - ⚡ **Education**: Undergraduate Student @VIT Pune 
 
-<div align="center">
-    <img src="https://media.giphy.com/media/Y5oY5OXXphKTezVp3r/giphy.gif" width="250px" alt="Funny Study GIF"/>
-</div>
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kunal-sonne-719748322/) 
 
-<div align="center">
-    <hr style="border: none; height: 3px; background-image: linear-gradient(90deg, #ffcc00 0%, #ff6600 50%, #ffcc00 100%); animation: shine 2s infinite linear;">
-</div>
+# 💻Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=erenyeager101&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=erenyeager101&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=erenyeager101&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=erenyeager101&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🚀 My Interests
-
-- **Blockchain Technology**: I'm looking to collaborate and learn more about this revolutionary technology.
-- **Software Development**: Continuously improving my coding skills and exploring new technologies.
-
-<div align="center">
-    <hr style="border: none; height: 3px; background-image: linear-gradient(90deg, #00ff99 0%, #00ccff 50%, #00ff99 100%); animation: shine 2s infinite linear;">
-</div>
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-## 📬 Contact Me
-
-- **Email**: [sonnekunal2@gmail.com](mailto:sonnekunal2@gmail.com)
-
-Feel free to reach out to me for collaborations, discussions, or just to say hi!
-
-<div align="center">
-    <hr style="border: none; height: 3px; background-image: linear-gradient(90deg, #ff3399 0%, #6600ff 50%, #ff3399 100%); animation: shine 2s infinite linear;">
-</div>
-
----
-
-## 🔧 Technologies & Tools
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="animation: bounce 2s infinite;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="animation: spin 4s infinite;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
-
-<div align="center">
-    <hr style="border: none; height: 3px; background-image: linear-gradient(90deg, #ff6600 0%, #ff0000 50%, #ff6600 100%); animation: shine 2s infinite linear;">
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=erenyeager101&show_icons=true&theme=radical" alt="Kunal's GitHub stats" width="48%" style="border-radius: 15px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenyeager101&layout=compact&theme=radical" alt="Top Languages" width="48%" style="border-radius: 15px;">
-</p>
-
-<div align="center">
-    <hr style="border: none; height: 3px; background-image: linear-gradient(90deg, #00ccff 0%, #0099ff 50%, #00ccff 100%); animation: shine 2s infinite linear;">
-</div>
-
----
-
-## 🌟 Fun Facts
-
-- 🚀 I'm always curious and eager to learn new things.
-- 🎮 In my free time, I enjoy playing video games and reading about tech innovations.
-
-<div align="center">
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200px" alt="Curiosity GIF"/>
-</div>
-
-<div align="center">
-    <hr style="border: none; height: 3px; background-image: linear-gradient(90deg, #ff33cc 0%, #ff66ff 50%, #ff33cc 100%); animation: shine 2s infinite linear;">
-</div>
-
----
-
-## 👀 Profile Visits
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=erenyeager101&color=brightgreen" alt="Profile visits" style="border-radius: 15px;">
-</p>
-
-<div align="center">
-    <hr style="border: none; height: 3px; background-image: linear-gradient(90deg, #ccff33 0%, #99ff33 50%, #ccff33 100%); animation: shine 2s infinite linear;">
-</div>
-
----
-
-Thanks for visiting my profile! Let's connect and collaborate on exciting projects! 🎉
-
-<div align="center">
-    <hr style="border: none; height: 3px; background-image: linear-gradient(90deg, #ffcc00 0%, #ff6600 50%, #ffcc00 100%); animation: shine 2s infinite linear;">
-</div>
-
----
-
-<!---
-erenyeager101/erenyeager101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![](https://visitcount.itsvg.in/api?id=erenyeager101&icon=7&color=0)](https://visitcount.itsvg.in)
