@@ -5,7 +5,7 @@
 - 🌍 **Pronouns**: He/Him
 - ⚡ **Education**: Undergraduate Student @VIT Pune 
 
-## 🌐Socials <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/XyJPNKBskIDWR3Md8K" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/trazoz-mobile-phone-azul-XyJPNKBskIDWR3Md8K">via GIPHY</a></p>
+## 🌐Socials <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmlpOGFvNDN3anBvd2oxeWF5b2wya3ZiZ3V1YTVqNWg0MW9qeHE2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XyJPNKBskIDWR3Md8K/giphy.gif" width="30px>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kunal-sonne-719748322/) 
 
 # 💻Tech Stack
