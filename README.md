@@ -9,7 +9,6 @@
 - 🌍 **Pronouns**: He/Him
 - ⚡ **Education**: Undergraduate Student @VIT Pune
 
-  ![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/erenyeager101?year=2024Extd)
 
 ## 🌐Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kunal-sonne-719748322/) 
