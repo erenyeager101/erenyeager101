@@ -62,14 +62,14 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://heart-disease-monitoring.onrender.com/" target="_blank">
-          <img src="https://img.icons8.com/fluency/96/heart-health.png" alt="Heart Disease Monitoring" width="80">
+          <img src="[https://img.icons8.com/fluency/96/heart-health.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Fheart-health-png&psig=AOvVaw2_rAlUbNP-hLN1PAvM3ad1&ust=1735023696205000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC2_oqpvYoDFQAAAAAdAAAAABAE)" alt="Heart Disease Monitoring" width="80">
           <h3>Heart Disease Monitoring</h3>
         </a>
         <p>An ML-powered tool to predict heart disease with 88% accuracy.</p>
       </td>
       <td align="center" width="50%">
         <a href="https://dsa-multi-algo-simulator.vercel.app/" target="_blank">
-          <img src="https://img.icons8.com/color/96/algorithm.png" alt="DSA Algo Simulator" width="80">
+          <img src="[https://img.icons8.com/color/96/algorithm.png](https://repository-images.githubusercontent.com/403817624/3d10f761-1027-4d0a-9906-48361e466d87)" alt="DSA Algo Simulator" width="80">
           <h3>DSA Algorithm Simulator</h3>
         </a>
         <p>Visualize and learn DSA algorithms interactively.</p>
