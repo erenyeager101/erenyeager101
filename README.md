@@ -1,17 +1,46 @@
-# <div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHk4cHdzazJ0dTVrOW1pc2tucWQ3ZG5jZHBqNWI5azJhdGJjZnF2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVEBWRInEvNOEVS18i/giphy.gif" width="180px" />
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHk4cHdzazJ0dTVrOW1pc2tucWQ3ZG5jZHBqNWI5azJhdGJjZnF2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVEBWRInEvNOEVS18i/giphy.gif" width="180px" />
 </div>
 
-# 💫About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-- 👨‍💻 **Name**: Kunal
-- 🎓 **Current Study**: Pursuing B.Tech
-- 🖥️ **Interests**: Coding, Machine Learning , Blockchain Technology
-- 🌍 **Pronouns**: He/Him
-- ⚡ **Education**: Undergraduate Student @VIT Pune
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to My GitHub Profile! 
+</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello+there%2C+I'm+Kunal+%F0%9F%91%8B;B.Tech+Undergraduate+%40+VIT+Pune;Passionate+about+ML%2C+Blockchain+%26+Coding;Anime+Fan+%E2%9C%A8;Always+Learning+%F0%9F%93%9A">
+</div>
 
-## 🌐Socials 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kunal-sonne-719748322/) 
+---
+
+## 💫 About Me  
+- 👨‍💻 **Name**: Kunal  
+- 🎓 **Current Study**: Pursuing B.Tech  
+- 🖥️ **Interests**: Coding, Machine Learning, Blockchain Technology  
+- 🌍 **Pronouns**: He/Him  
+- ⚡ **Education**: Undergraduate Student @ VIT Pune  
+
+---
+
+## 🌐 Connect with Me  
+<div align="center">
+  <a href="https://linkedin.com/in/kunal-sonne-719748322/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://devfolio.co/@kunal2005">
+    <img src="https://img.shields.io/badge/Devfolio-%23092E20.svg?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio">
+  </a>
+  <a href="https://orcid.org/0009-0003-4096-4306">
+    <img src="https://img.shields.io/badge/ORCID-%2300A489.svg?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
+  <a href="https://www.figma.com/@kunalsonne">
+    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  </a>
+  <a href="mailto:sonnekunal2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
+
+---
 
 # 💻Tech Stack 
 
