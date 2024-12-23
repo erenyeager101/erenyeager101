@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello+there%2C+I'm+Kunal+%F0%9F%91%8B;B.Tech+Undergraduate+%40+VIT+Pune;Passionate+about+ML%2C+Blockchain+%26+Coding;Anime+Fan+%E2%9C%A8;Always+Learning+%F0%9F%93%9A">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello+there%2C+I'm+Kunal+%F0%9F%91%8B;B.Tech+Undergraduate+%40+VIT+Pune; Passionate+about+ML%2C+Blockchain+%26+Coding;Tech Enthusiast+%E2%9C%A8;Always+Learning+%F0%9F%93%9A">
 </div>
 
 ---
