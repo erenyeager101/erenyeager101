@@ -49,76 +49,12 @@
 # 📊GitHub Stats :
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erenyeager101&theme=radical" alt="Kunal's GitHub streak" />
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=erenyeager101&show_icons=true&theme=radical" alt="Kunal's GitHub stats" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erenyeager101&theme=radical" alt="GitHub Profile Summary"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenyeager101&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Languages"/>
-</div>
-## 🌟 Featured Projects
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erenyeager101&theme=radical" alt="GitHub Profile Summary"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenyeager101&layout=compact&theme=github_dark" alt="Kunal's GitHub Top Languages" /><br>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://heart-disease-monitoring.onrender.com/" target="_blank">
-          <img src="[https://img.icons8.com/fluency/96/heart-health.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Fheart-health-png&psig=AOvVaw2_rAlUbNP-hLN1PAvM3ad1&ust=1735023696205000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC2_oqpvYoDFQAAAAAdAAAAABAE)" alt="Heart Disease Monitoring" width="80">
-          <h3>Heart Disease Monitoring</h3>
-        </a>
-        <p>An ML-powered tool to predict heart disease with 88% accuracy.</p>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://dsa-multi-algo-simulator.vercel.app/" target="_blank">
-          <img src="[https://img.icons8.com/color/96/algorithm.png](https://repository-images.githubusercontent.com/403817624/3d10f761-1027-4d0a-9906-48361e466d87)" alt="DSA Algo Simulator" width="80">
-          <h3>DSA Algorithm Simulator</h3>
-        </a>
-        <p>Visualize and learn DSA algorithms interactively.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://sustainable-webapp.vercel.app/" target="_blank">
-          <img src="https://img.icons8.com/color/96/earth-care.png" alt="Sustainability WebApp" width="80">
-          <h3>Sustainability WebApp</h3>
-        </a>
-        <p>A 3D Three.js-powered website to promote sustainability.</p>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://carbon-marketplace-three.vercel.app/" target="_blank">
-          <img src="https://img.icons8.com/color/96/blockchain-technology.png" alt="Carbon Marketplace" width="80">
-          <h3>Carbon Marketplace</h3>
-        </a>
-        <p>A Web3 blockchain-based carbon credit manager.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://stream-tube-video-player.vercel.app/" target="_blank">
-          <img src="https://img.icons8.com/color/96/youtube-play.png" alt="StreamTube" width="80">
-          <h3>StreamTube</h3>
-        </a>
-        <p>React-based video streaming platform.</p>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://web-technology-frameworks-p2hj-git-main-erenyeager101s-projects.vercel.app/" target="_blank">
-          <img src="https://img.icons8.com/color/96/web-design.png" alt="Web Tech Blog" width="80">
-          <h3>Web Technology Blog</h3>
-        </a>
-        <p>A blog showcasing the latest web frameworks and tools.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://pizzadapp-m9a9s1cy1-erenyeager101s-projects.vercel.app/" target="_blank">
-          <img src="https://img.icons8.com/color/96/pizza.png" alt="PizzaDapp" width="80">
-          <h3>PizzaDApp</h3>
-        </a>
-        <p>A simple blockchain-based pizza booking app.</p>
-      </td>
-    </tr>
-  </table>
 </div>
-
 
 
 ## 🏆GitHub Trophies
@@ -128,4 +64,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+## 👀 Profile Views
 [![](https://visitcount.itsvg.in/api?id=erenyeager101&icon=7&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=F71342&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+connect+and+build+something+awesome!" />
+</div>
