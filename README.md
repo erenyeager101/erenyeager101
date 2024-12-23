@@ -50,6 +50,18 @@
 ![](https://github-readme-stats.vercel.app/api?username=erenyeager101&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=erenyeager101&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erenyeager101&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 📊 My GitHub Activity
+<div align="center">
+  <img src="https://github-contributions.vercel.app/api?username=erenyeager101&theme=github-dark&bg=0d1117&text=ffffff" alt="Kunal's GitHub Contributions Graph" />
+</div>
+## 📈 My GitHub Contributions
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erenyeager101&theme=radical" alt="Kunal's GitHub streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=erenyeager101&show_icons=true&theme=radical" alt="Kunal's GitHub stats" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erenyeager101&theme=radical" alt="GitHub Profile Summary"/>
+</div>
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=erenyeager101&theme=radical&no-frame=false&no-bg=false&margin-w=4)
