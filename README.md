@@ -55,109 +55,70 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erenyeager101&theme=radical" alt="GitHub Profile Summary"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenyeager101&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Languages"/>
 </div>
-## 🚀 Projects
+## 🌟 Featured Projects
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <!-- Project 1 -->
-  <div style="width: 300px; border:1px solid #e1e4e8; border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <a href="https://heart-disease-monitoring.onrender.com/" target="_blank">
-      <img src="https://i.imgur.com/yourHeartDiseaseImage.png" alt="Heart Disease Monitoring" style="width:100%; height: auto; border-radius: 4px;">
-    </a>
-    <h3><a href="https://heart-disease-monitoring.onrender.com/" target="_blank">❤️ Heart Disease Monitoring</a></h3>
-    <p>A machine learning model achieving 88% accuracy in predicting heart diseases using Random Forest.</p>
-    <div style="margin-top: 10px;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-      <img src="https://img.shields.io/badge/ML-FF9900?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Machine Learning">
-    </div>
-  </div>
-
-  <!-- Project 2 -->
-  <div style="width: 300px; border:1px solid #e1e4e8; border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <a href="https://dsa-multi-algo-simulator.vercel.app/" target="_blank">
-      <img src="https://i.imgur.com/yourDSASimulatorImage.png" alt="DSA Algo Simulator" style="width:100%; height: auto; border-radius: 4px;">
-    </a>
-    <h3><a href="https://dsa-multi-algo-simulator.vercel.app/" target="_blank">📊 DSA Algo Simulator</a></h3>
-    <p>Interactive simulator for multiple data structures and algorithms to enhance learning and visualization.</p>
-    <div style="margin-top: 10px;">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-    </div>
-  </div>
-
-  <!-- Project 3 -->
-  <div style="width: 300px; border:1px solid #e1e4e8; border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <a href="https://sustainable-webapp.vercel.app/" target="_blank">
-      <img src="https://i.imgur.com/yourSustainableWebAppImage.png" alt="Sustainable WebApp" style="width:100%; height: auto; border-radius: 4px;">
-    </a>
-    <h3><a href="https://sustainable-webapp.vercel.app/" target="_blank">🌱 Sustainable WebApp</a></h3>
-    <p>A 3D Three.js website built to promote sustainability through interactive visuals and information.</p>
-    <div style="margin-top: 10px;">
-      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/WebGL-000000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL">
-    </div>
-  </div>
-
-  <!-- Project 4 -->
-  <div style="width: 300px; border:1px solid #e1e4e8; border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <a href="https://carbon-marketplace-three.vercel.app/" target="_blank">
-      <img src="https://i.imgur.com/yourCarbonMarketplaceImage.png" alt="Carbon Credit Manager" style="width:100%; height: auto; border-radius: 4px;">
-    </a>
-    <h3><a href="https://carbon-marketplace-three.vercel.app/" target="_blank">🌐 Carbon Credit Manager</a></h3>
-    <p>A Web3 blockchain-based platform for managing and trading carbon credits.</p>
-    <div style="margin-top: 10px;">
-      <img src="https://img.shields.io/badge/Web3-333333?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3">
-      <img src="https://img.shields.io/badge/Blockchain-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Blockchain">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-    </div>
-  </div>
-
-  <!-- Project 5 -->
-  <div style="width: 300px; border:1px solid #e1e4e8; border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <a href="https://stream-tube-video-player.vercel.app/" target="_blank">
-      <img src="https://i.imgur.com/yourStreamTubeImage.png" alt="StreamTube Video Player" style="width:100%; height: auto; border-radius: 4px;">
-    </a>
-    <h3><a href="https://stream-tube-video-player.vercel.app/" target="_blank">📺 StreamTube Video Player</a></h3>
-    <p>A React-based video streaming platform with seamless playback and user-friendly interface.</p>
-    <div style="margin-top: 10px;">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-    </div>
-  </div>
-
-  <!-- Project 6 -->
-  <div style="width: 300px; border:1px solid #e1e4e8; border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <a href="https://web-technology-frameworks-p2hj-git-main-erenyeager101s-projects.vercel.app/" target="_blank">
-      <img src="https://i.imgur.com/yourWebTechBlogImage.png" alt="Web Technology Blog" style="width:100%; height: auto; border-radius: 4px;">
-    </a>
-    <h3><a href="https://web-technology-frameworks-p2hj-git-main-erenyeager101s-projects.vercel.app/" target="_blank">📝 Web Technology Blog</a></h3>
-    <p>A blog using web development tools to discuss and explore various web technology frameworks.</p>
-    <div style="margin-top: 10px;">
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    </div>
-  </div>
-
-  <!-- Project 7 -->
-  <div style="width: 300px; border:1px solid #e1e4e8; border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <a href="https://pizzadapp-m9a9s1cy1-erenyeager101s-projects.vercel.app/" target="_blank">
-      <img src="https://i.imgur.com/yourPizzaDAppImage.png" alt="Pizza DApp" style="width:100%; height: auto; border-radius: 4px;">
-    </a>
-    <h3><a href="https://pizzadapp-m9a9s1cy1-erenyeager101s-projects.vercel.app/" target="_blank">🍕 Pizza DApp</a></h3>
-    <p>A simple blockchain-based pizza booking application leveraging smart contracts for secure transactions.</p>
-    <div style="margin-top: 10px;">
-      <img src="https://img.shields.io/badge/Blockchain-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Blockchain">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-      <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
-    </div>
-  </div>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://heart-disease-monitoring.onrender.com/" target="_blank">
+          <img src="https://img.icons8.com/fluency/96/heart-health.png" alt="Heart Disease Monitoring" width="80">
+          <h3>Heart Disease Monitoring</h3>
+        </a>
+        <p>An ML-powered tool to predict heart disease with 88% accuracy.</p>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://dsa-multi-algo-simulator.vercel.app/" target="_blank">
+          <img src="https://img.icons8.com/color/96/algorithm.png" alt="DSA Algo Simulator" width="80">
+          <h3>DSA Algorithm Simulator</h3>
+        </a>
+        <p>Visualize and learn DSA algorithms interactively.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://sustainable-webapp.vercel.app/" target="_blank">
+          <img src="https://img.icons8.com/color/96/earth-care.png" alt="Sustainability WebApp" width="80">
+          <h3>Sustainability WebApp</h3>
+        </a>
+        <p>A 3D Three.js-powered website to promote sustainability.</p>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://carbon-marketplace-three.vercel.app/" target="_blank">
+          <img src="https://img.icons8.com/color/96/blockchain-technology.png" alt="Carbon Marketplace" width="80">
+          <h3>Carbon Marketplace</h3>
+        </a>
+        <p>A Web3 blockchain-based carbon credit manager.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://stream-tube-video-player.vercel.app/" target="_blank">
+          <img src="https://img.icons8.com/color/96/youtube-play.png" alt="StreamTube" width="80">
+          <h3>StreamTube</h3>
+        </a>
+        <p>React-based video streaming platform.</p>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://web-technology-frameworks-p2hj-git-main-erenyeager101s-projects.vercel.app/" target="_blank">
+          <img src="https://img.icons8.com/color/96/web-design.png" alt="Web Tech Blog" width="80">
+          <h3>Web Technology Blog</h3>
+        </a>
+        <p>A blog showcasing the latest web frameworks and tools.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://pizzadapp-m9a9s1cy1-erenyeager101s-projects.vercel.app/" target="_blank">
+          <img src="https://img.icons8.com/color/96/pizza.png" alt="PizzaDapp" width="80">
+          <h3>PizzaDApp</h3>
+        </a>
+        <p>A simple blockchain-based pizza booking app.</p>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 ## 🏆GitHub Trophies
