@@ -14,9 +14,9 @@
 ---
 
 ## 💫 About Me  
-- 👨‍💻 **Name**: Kunal  
+- 👨‍💻 **Name**: Kunal Sonne  
 - 🎓 **Current Study**: Pursuing B.Tech  
-- 🖥️ **Interests**: Coding, Machine Learning, Blockchain Technology  
+- 🖥️ **Interests**: Machine Learning, Web Development,Blockchain Technology, Research 
 - 🌍 **Pronouns**: He/Him  
 - ⚡ **Education**: Undergraduate Student @ VIT Pune  
 
