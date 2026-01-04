@@ -38,10 +38,22 @@
         </a>
       </div>
 <td width="45%" valign="top" align="center">
-      <h2>📊 GitHub Analytics</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" />
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="100%" />
+# 📊GitHub Stats :
+<div align="center">
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erenyeager101" alt="GitHub Streak Statistics" />
+</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=erenyeager101&show_icons=true&theme=radical" alt="Kunal's GitHub stats" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erenyeager101&theme=radical" alt="GitHub Profile Summary"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenyeager101&layout=compact&theme=github_dark" alt="Kunal's GitHub Top Languages" /><br>
+
+</div>
+
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=erenyeager101&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
     </td>
   </tr>
 </table>
