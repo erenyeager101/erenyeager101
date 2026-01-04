@@ -37,13 +37,15 @@
           <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
         </a>
       </div>
-    </td>
-    <td width="45%" valign="top" align="center">
-      <h2>📊 GitHub Analytics</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=erenyeager101&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" />
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=erenyeager101&theme=radical&hide_border=true" width="100%" />
-    </td>
+<td width="45%" valign="top" align="center">
+  <h2>📊 GitHub Analytics</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=erenyeager101&show_icons=true&theme=radical&hide_border=true" width="100%" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.demolab.com/?user=erenyeager101&theme=radical&hide_border=true" width="100%" />
+</td>
   </tr>
 </table>
 
