@@ -80,13 +80,9 @@ I enjoy designing **scalable ML pipelines**, **data-driven applications**, and *
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=erenyeager101&theme=radical&hide_border=false" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=erenyeager101&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenyeager101&layout=compact&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erenyeager101&theme=radical" />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=erenyeager101&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=erenyeager101&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=erenyeager101&layout=compact&theme=radical)
 
 </div>
 
