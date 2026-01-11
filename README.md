@@ -107,7 +107,7 @@ I enjoy designing **scalable ML pipelines**, **data-driven applications**, and *
 ## 👀 Profile Views  
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=erenyeager101&icon=7&color=12" />
+  ![](https://komarev.com/ghpvc/?username=erenyeager101&color=dc143c)
 </div>
 
 <div align="center">
