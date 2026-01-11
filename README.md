@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Kunal+%F0%9F%91%8B;Machine+Learning+%26+Blockchain+Enthusiast;Building+Data-Driven+and+Decentralized+Systems;Always+Learning+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Kunal+%F0%9F%91%8B;Machine+Learning+%26+Blockchain+Enthusiast;Building+Data-Driven+Systems;Always+Keep+Learning+%F0%9F%93%9A" />
 </div>
 
 ---
@@ -14,7 +14,7 @@
 🎓 B.Tech Undergraduate @ **:contentReference[oaicite:0]{index=0}**  
 🧠 Interests: **Machine Learning, Blockchain, Web Development, Research**  
 🌱 Currently exploring: **Deep Learning, Model Optimization, Smart Contracts**  
-⚡ Philosophy: *Learn → Build → Break → Improve*
+
 
 I enjoy designing **scalable ML pipelines**, **data-driven applications**, and **decentralized solutions** that solve real-world problems. My work sits at the intersection of **AI, software engineering, and blockchain systems**.
 
@@ -49,7 +49,6 @@ I enjoy designing **scalable ML pipelines**, **data-driven applications**, and *
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### 🌐 Web & Backend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -63,9 +62,7 @@ I enjoy designing **scalable ML pipelines**, **data-driven applications**, and *
 ### 🤖 Machine Learning & Data
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### ☁️ Cloud & Tools
