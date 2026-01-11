@@ -105,10 +105,10 @@ I enjoy designing **scalable ML pipelines**, **data-driven applications**, and *
 ---
 
 ## 👀 Profile Views  
-
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=erenyeager101&color=dc143c)
+  <img src="https://komarev.com/ghpvc/?username=erenyeager101&color=dc143c" alt="Profile Views" />
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=F71342&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+impactful+together+%F0%9F%9A%80" />
