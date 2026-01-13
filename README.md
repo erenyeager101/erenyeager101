@@ -11,7 +11,7 @@
 ## 🚀 About Me  
 
 👨‍💻 **Kunal Sonne**  
-🎓 B.Tech Undergraduate @ **:contentReference[oaicite:0]{index=0}**  
+🎓 B.Tech Undergraduate @ VIT Pune  
 🧠 Interests: **Machine Learning, Blockchain, Web Development, Research**  
 🌱 Currently exploring: **Deep Learning, Model Optimization, Smart Contracts**  
 
