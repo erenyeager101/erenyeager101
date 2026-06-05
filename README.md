@@ -8,15 +8,31 @@
 
 ---
 
-## 🚀 About Me  
+## About Me
 
-👨‍💻 **Kunal Sonne**  
-🎓 B.Tech Undergraduate @ VIT Pune  
-🧠 Interests: **Machine Learning, Blockchain, Web Development, Research**  
-🌱 Currently exploring: **Deep Learning, Model Optimization, Smart Contracts**  
+👋 Hi, I'm Kunal Sonne.
 
+I'm a Software Engineer and Information Technology undergraduate at VIT Pune, focused on building scalable backend systems, real-time applications, and distributed infrastructure.
 
-I enjoy designing **scalable ML pipelines**, **data-driven applications**, and **decentralized solutions** that solve real-world problems. My work sits at the intersection of **AI, software engineering, and blockchain systems**.
+I've worked with engineering teams at IIT Bombay and Addverb Technologies, developing production-oriented systems involving WebSockets, Redis, RabbitMQ, telemetry pipelines, and cloud-native architectures.
+
+### What I Enjoy Building
+
+⚡ Real-time Systems & Event-Driven Architectures  
+🔗 Backend APIs & Distributed Services  
+📊 Observability, Monitoring & Reliability Platforms  
+☁️ Cloud Infrastructure & DevOps Workflows  
+🤖 Applied AI Systems & Automation
+
+### Currently Exploring
+
+- Databases and APIs
+- Backend Architecture
+- Agentic AI Systems
+- Nodejs backend development
+- High-Performance Databases
+
+I enjoy turning complex engineering problems into reliable software that scales.
 
 ---
 
